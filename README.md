@@ -1,9 +1,6 @@
+# file changes from v1
 # STEP 1: inertia installation and app.blade.php creation
     s1.1-> Run command : composer require inertiajs/inertia-laravel
-    
-
-file changes form v1
-
     s1.2-> create app.blade.php file in views in laravel and paste this
 
 
