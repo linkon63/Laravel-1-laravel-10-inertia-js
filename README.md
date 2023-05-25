@@ -1,5 +1,7 @@
 # STEP 1: inertia installation and app.blade.php creation
 
+# im from 2
+
 Updated readme file ...
 
     s1.1-> Run command : composer require inertiajs/inertia-laravel
