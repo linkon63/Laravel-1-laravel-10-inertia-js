@@ -1,5 +1,6 @@
 <template >
-    <h1>About Page</h1>
+    <h1>About Page Git file</h1>
+    
     <Footer />
 </template>
 <script setup>
