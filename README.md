@@ -1,4 +1,7 @@
 # STEP 1: inertia installation and app.blade.php creation
+
+Updated readme file ...
+
     s1.1-> Run command : composer require inertiajs/inertia-laravel
     s1.2-> create app.blade.php file in views in laravel and paste this
     <!DOCTYPE html>
